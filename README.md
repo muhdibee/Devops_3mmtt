@@ -13,4 +13,4 @@ My name is Olamide, I am the instructor
 - Push your changes
 - Create a pull request.
 - I will merge your changes
-My name is Celestine Ugwu.
+- My name is Celestine Ugwu.
