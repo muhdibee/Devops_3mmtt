@@ -16,4 +16,5 @@ My name is Olamide, I am the instructor
 - My name is Celestine Ugwu.
 - My name is Abel.
 - My name is Abdulqoyum Adeola Ilori
-my name is obumneme
+- My name is obumneme
+- My name is Fred Kanwai
