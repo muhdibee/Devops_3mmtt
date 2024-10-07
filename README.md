@@ -16,3 +16,12 @@ My name is Olamide, I am the instructor
 - My name is Celestine Ugwu.
 - My name is Abel.
 - My name is Abdulqoyum Adeola Ilori
+
+
+## Week 5 Assignment
+- Switch to the **Instructor Branch**
+- You would find a backend folder there
+- Create a new branch which would now have the said folder
+- Create a Docker image of the api
+- Run a Container
+- Send screenshots of your running container to your 3MTT portal
