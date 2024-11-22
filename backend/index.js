@@ -16,6 +16,10 @@ app.get("/devops", async (req, res) => {
   res.json(Devops);
 });
 
+app.get("/devops-count", async (req, res) => {
+  res.send(Devops.lenght);
+});
+
 app.post("/students", async (req, res) => {
   const newStudent = req.body;
   Devops.push(newStudent);
