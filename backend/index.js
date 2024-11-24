@@ -9,7 +9,7 @@ const Devops = [
   { classId: 1, name: "Celestine Ugwu", gender: "male" },
   { classId: 2, name: "Abel", gender: "male" },
   { classId: 3, name: "Fred Kanwai", gender: "male" },
-  { classId: 4, name: "Abdulqoyum Adeola Ilori", gender: "male" }
+  { classId: 4, name: "Abdulqoyum Adeola Ilori", gender: "male" },
 ];
 
 app.get("/devops", async (req, res) => {
@@ -17,7 +17,7 @@ app.get("/devops", async (req, res) => {
 });
 
 app.get("/devops-count", async (req, res) => {
-  res.send(Devops.lenght);
+  res.send(Devops.length);
 });
 
 app.post("/students", async (req, res) => {
